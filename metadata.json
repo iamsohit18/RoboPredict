@@ -1,0 +1,6 @@
+{
+  "name": "RoboPredict AI",
+  "description": "AI-Powered Robotic Failure Prediction & Predictive Maintenance Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
